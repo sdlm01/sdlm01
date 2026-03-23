@@ -2,7 +2,7 @@
 
 **Data Engineer** certifié Mines ParisTech · Double Master en Informatique · Azure AZ-900
 
-Je conçois des pipelines de données de bout en bout — du batch au streaming, de l'ingestion à la visualisation.
+Je conçois des pipelines de données de bout en bout; du batch au streaming, de l'ingestion à la visualisation.
 
 ---
 
